@@ -1,0 +1,72 @@
+[
+    {
+        "question": "Definisi Organisasi adalah ...",
+        "choices": [
+            "sebagai sekelompok orang yang bekerja sama, berkoordinasi, untuk mencapai tujuan tertentu",
+            "sebagian orang yang bekerja untuk tujuan tertentu",
+            "bersifat bisnis dengan tujuan tertentu",
+            "sebagai perusahaan yang bersifat bisnis dengan tujuan mencari keuntungan sebesar-besarnya"
+        ],
+        "answer": "sebagai sekelompok orang yang bekerja sama, berkoordinasi, untuk mencapai tujuan tertentu"
+    },
+    {
+        "question": "Manajemen adalah suatu proses dimana suatu kelompok orang bekerja sama mengarahkan orang lainnya untuk bekerja mencapai tujuan yang sama, hal ini dikemukakan oleh ...",
+        "choices": [
+            "Massie dan Douglas",
+            "Kreitner",
+            "Koontz dan O’Donnel",
+            "Donnely, Gibson, dan Ivancevich"
+        ],
+        "answer": "Massie dan Douglas"
+    },
+    {
+        "question": "Contoh organisasi terstruktur yang ketat adalah ...",
+        "choices": [
+            "kegiatan RT (Rumah Tangga)",
+            "RW (Rukun Warga)",
+            "Koperasi",
+            "Organisasi militer"
+        ],
+        "answer": "Organisasi militer"
+    },
+    {
+        "question": "Proses manajemen mencakup kegiatan .....",
+        "choices": [
+            "pengorganisasian, perencanaan, pengarahan, dan pengendalian",
+            "perencanaan, pengorganisasian, pengarahan, dan pengendalian",
+            "perencanaan, pengorganisasian, pengendalian dan pengarahan,",
+            "pengarahan, perencanaan, pengorganisasian, dan pengendalian"
+        ],
+        "answer": "perencanaan, pengorganisasian, pengarahan, dan pengendalian"
+    },
+    {
+        "question": "Berikut ini adalah yang termasuk dalam aliran manajemen klasik, kecuali",
+        "choices": [
+            "Henry Fayol",
+            "Max Weber",
+            "Adam Smith",
+            "Mary Parker Follet"
+        ],
+        "answer": "Adam Smith"
+    },
+    {
+        "question": "Lima kekuatan kompetisi bagi perusahaan untuk mencari keuntungan yang dikembangkan oleh Michael Porter adalah ...",
+        "choices": [
+            "ancaman pendatang baru atau halangan untuk masuk, produk substitusi, pemasok, pembeli, pesaing",
+            "ancaman pendatang baru atau halangan untuk masuk, produk, pemasok, pembeli, pesaing",
+            "ancaman pendatang baru, produk substitusi, pemasok, pembeli, pesaing",
+            "ancaman dari luar, produk substitusi, pemasok, pembeli, pesaing"
+        ],
+        "answer": "ancaman pendatang baru atau halangan untuk masuk, produk substitusi, pemasok, pembeli, pesaing"
+    },
+    {
+        "question": "Ada empat wilayah pengukuran tujuan sosial, dimana untuk setiap wilayah diperlukan pengukuran yang lebih spesifik, salah satunya adalah wilayah ekonomi. Yang dimaksud dengan wilayah ekonomi adalah ...",
+        "choices": [
+            "pengukuran dilakukan apakah organisasi melaksanakan tugas ekonomi yang dasar",
+            "pengukuran dilakukan untuk melihat apakah organisasi meningkatkan kualitas hidup secara umum",
+            "pengukuran dilakukan untuk melihat sejauh mana investasi sumberdaya (uang dan manusia) dilakukan organisasi untuk membantu persoalan yang dihadapi komunitas, seperti pendidikan, pengajian, dan sebagainya",
+            "pengukuran dalam wilayah ini ingin melihat sejauh mana organisasi berhasil memecahkan masalah sosial, bukannya mengatasi gejala-gejala yang muncul."
+        ],
+        "answer": "pengukuran dilakukan apakah organisasi melaksanakan tugas ekonomi yang dasar"
+    }
+]
