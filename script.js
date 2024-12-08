@@ -113,17 +113,6 @@ function showQuestion() {
         const correctAnswer = questions[currentQuestionIndex].answer;
         const userAnswer = chosenAnswers[currentQuestionIndex];
         const allChoices = document.querySelectorAll('.choice');
-
-        allChoices.forEach(button => {
-            if (button.textContent === correctAnswer) {
-                button.style.borderColor = '#28a745'; // Hijau untuk benar
-                button.style.backgroundColor = 'rgba(40, 167, 69, 0.2)';
-            }
-            if (userAnswer !== correctAnswer && button.textContent === userAnswer) {
-                button.style.borderColor = '#dc3545'; // Merah untuk salah
-                button.style.backgroundColor = 'rgba(220, 53, 69, 0.2)';
-            }
-        });
     }
 }
 
@@ -233,7 +222,7 @@ function showScore() {
                 </div>
             </div>
             <div class="score-message">${percentage >= 80 ? 'Hebat!' : percentage >= 50 ? 'Lumayan!' : 'Tetap Semangat!'}</div>
-            <button id="view-questions-btn" class="view-questions-btn">Lihat Soal</button>
+            <button id="view-questions-btn" class="view-questions-btn">Review Jawaban</button>
         </div>
     `;
 
