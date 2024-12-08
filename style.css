@@ -8,7 +8,12 @@
     padding: 0;
 }
 
-/* ::after */
+marquee {
+    background-color: #f06;
+    border-radius: 7px;
+    color: #fff;
+    font-size: 14px;
+}
 
 body {
     font-family: 'Poppins', sans-serif;
@@ -350,10 +355,10 @@ h2 {
 }
 
 #question {
-    font-size: 1.4em;
+    font-size: 1em;
     margin-bottom: 25px;
-    color: #333;
-    font-weight: 600;
+    color: #000000;
+    font-weight: 300;
 }
 
 .choices {
@@ -437,13 +442,14 @@ h2 {
     }
 
     .sidebar {
-        width: 287px;
+        width: 438px;
         margin-top: 10px;
+        margin-right: 0;
     }
 
     .sidebar ul {
         display: grid;
-        grid-template-columns: repeat(5, 1fr);
+        grid-template-columns: repeat(8, 1fr);
         gap: 5px;
     }
 
@@ -453,6 +459,7 @@ h2 {
 }
 
 @media (max-width: 600px) {
+
     .quiz-container, .score-container, .review-container {
         padding: 20px;
     }
